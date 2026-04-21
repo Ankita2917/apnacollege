@@ -1,3 +1,4 @@
 # apnacollege
-my first repository
-aauthor - Ankita shrivastava
+my first repository.
+<br>
+author - Ankita shrivastava
